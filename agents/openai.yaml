@@ -1,0 +1,4 @@
+interface:
+  display_name: "C语言考研算法闭环教练"
+  short_description: "带领完全零基础学生从C语法入门逐步进阶到考研算法训练"
+  default_prompt: "使用 $c-algorithm-exam-loop-coach 带我从完全零基础开始学习C语言，并生成今天的闭环训练计划。"
